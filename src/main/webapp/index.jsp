@@ -40,7 +40,7 @@
       <br>
       <span class="badge badge-danger"> Love coding or opposite </span>
       <br>
-      <span class="badge badge-warning"> My favorite language is Javascript, PHP, C++, Java</span>
+      <span class="badge badge-warning"> My favorite language is Javascript, PHP, C++, Java, Typescript</span>
       <!-- You only need to change these information, ends here! -->
       
 
